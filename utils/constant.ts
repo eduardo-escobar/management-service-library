@@ -1,0 +1,1 @@
+export const config = 'mssql://sa:Ees.2020@localhost/VentasStock'
